@@ -1,0 +1,29 @@
+id: PB1B7DEF0
+initial_creation_type: input
+source_metadata:
+  title: The Blue Annals (block print), Chos rgyal lhun po printers colophon excerpt
+  author: gos lo tsA ba gzhon nu dpal/
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-05-23); revision in process, thematic TEI
+    markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:unspecified
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/4834
+  bases:
+    fb21:
+      title: The Blue Annals (block print), Chos rgyal lhun po printers colophon excerpt
+      order: 1
+      base_file: fb21.txt
+created_at: '2022-04-15T18:49:49.279916'
+last_modified_at: '2022-04-15T18:49:49.279923'
+quality: null
